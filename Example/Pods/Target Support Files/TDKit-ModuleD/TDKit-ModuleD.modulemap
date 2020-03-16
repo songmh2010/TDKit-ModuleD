@@ -1,0 +1,6 @@
+framework module TDKit_ModuleD {
+  umbrella header "TDKit-ModuleD-umbrella.h"
+
+  export *
+  module * { export * }
+}
